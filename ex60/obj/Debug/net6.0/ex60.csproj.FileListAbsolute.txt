@@ -1,0 +1,15 @@
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\bin\Debug\net6.0\ex60.exe
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\bin\Debug\net6.0\ex60.deps.json
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\bin\Debug\net6.0\ex60.runtimeconfig.json
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\bin\Debug\net6.0\ex60.dll
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\bin\Debug\net6.0\ex60.pdb
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\obj\Debug\net6.0\ex60.csproj.AssemblyReference.cache
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\obj\Debug\net6.0\ex60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\obj\Debug\net6.0\ex60.AssemblyInfoInputs.cache
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\obj\Debug\net6.0\ex60.AssemblyInfo.cs
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\obj\Debug\net6.0\ex60.csproj.CoreCompileInputs.cache
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\obj\Debug\net6.0\ex60.dll
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\obj\Debug\net6.0\refint\ex60.dll
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\obj\Debug\net6.0\ex60.pdb
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\obj\Debug\net6.0\ex60.genruntimeconfig.cache
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар8\ex60\obj\Debug\net6.0\ref\ex60.dll
